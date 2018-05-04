@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "classnames": "^2.1.2",
-    "p5": "^0.5.10"
+    "p5": "0.5.14"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
